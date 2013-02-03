@@ -1,0 +1,6 @@
+# add this to your .bashrc or .bash_aliases
+# on a mac, check .profile
+# don't forget to reload your environment
+alias fidir=/path/to/fidir/fidir.sh
+alias fidirs=/path/to/fidir/fidir_summary.sh
+
